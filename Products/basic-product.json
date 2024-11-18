@@ -1,0 +1,6 @@
+{
+  "displayName": "Basic Product",
+  "description": "Access to basic APIs",
+  "subscriptionRequired": true,
+  "approvalRequired": false
+}
