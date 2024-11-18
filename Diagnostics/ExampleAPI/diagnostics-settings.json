@@ -1,0 +1,7 @@
+{
+  "loggerId": "apim-logger",
+  "sampling": {
+    "percentage": 100
+  },
+  "alwaysLogErrors": true
+}
